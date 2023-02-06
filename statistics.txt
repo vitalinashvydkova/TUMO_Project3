@@ -1,0 +1,6 @@
+{"sunBurst":0,"starBurst":0,"moonBurst":0,"score":0}
+{"sunBurst":7,"starBurst":2,"moonBurst":3,"score":-3}
+{"sunBurst":9,"starBurst":5,"moonBurst":4,"score":19}
+{"sunBurst":9,"starBurst":5,"moonBurst":4,"score":19}
+{"sunBurst":17,"starBurst":8,"moonBurst":7,"score":27}
+{"sunBurst":17,"starBurst":8,"moonBurst":7,"score":27}
